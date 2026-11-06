@@ -1,0 +1,11 @@
+{
+  "org": "intake",
+  "repo": "python-snappy",
+  "versions": [
+    {
+      "commit": "ff09d429fca0e34a6450c8c789f26e1c3386405a",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:13:20.914334+00:00"
+    }
+  ]
+}
