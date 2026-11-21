@@ -28,6 +28,38 @@
         "aggregate/ast/ff09d429fca0e34a6450c8c789f26e1c3386405a/chunk-001.nq.gz"
       ],
       "repolex": "aggregate/repolex/ff09d429fca0e34a6450c8c789f26e1c3386405a/chunk-001.nq.gz"
+    },
+    {
+      "commit": "42b452129b0be6fdc23a444a51e65f21adf66984",
+      "parsed_at": "2026-11-21T23:42:43.336301+00:00",
+      "tag": "0.7.2",
+      "filetree": "filetree/42b452129b0be6fdc23a444a51e65f21adf66984.nq.gz",
+      "blobs": [
+        "blob/3a78390be360ac15df4c87cdb221d9670691ea49.nq.gz",
+        "blob/0447ee4f2a1ba26f5fc90d8f6bc5819e8f0259bb.nq.gz",
+        "blob/1272004ccc01e715b27a48864d621ce6e72a7ebe.nq.gz",
+        "blob/a2e0bc5c9cb0814dacb8028a95f4cdb18c0ec471.nq.gz",
+        "blob/e7e83e34b37e551eed675ad1797352c90b22ea8c.nq.gz",
+        "blob/04d02ba13ef51b3238591063fc348a1dd2b7c96e.nq.gz",
+        "blob/51a54dddb9be578f812acc1536ce10420a201ff8.nq.gz",
+        "blob/5986800d36365e6cbb454f16fb7df1e9411a1287.nq.gz",
+        "blob/43afb912f30cd2bafbe04c6b53a2744f59142b91.nq.gz",
+        "blob/07c95f72d7389987f5fc591d240fff36bb7ee725.nq.gz",
+        "blob/2c0b6f290a10a6a5cd3f51509f60e23fc71a13ef.nq.gz",
+        "blob/03f6786f117685820931ace79d0fc9600c6c24d7.nq.gz",
+        "blob/d359d6f4a2a6b1a577eef646ad49d4d0053939e1.nq.gz",
+        "blob/e230e0b9e5f9006a42103f23f79c17c6b55e6a07.nq.gz",
+        "blob/3e65a38bb54267f410f2eb9f5e753b07bbf357ff.nq.gz",
+        "blob/68e43593bf2dad38f4521f6ae2601cc2bef19c07.nq.gz",
+        "blob/08e6a6487fe34df964b50156fc0a765bd41293b5.nq.gz",
+        "blob/aa1a22e750f7c2d3b3a946c7c2beb6879e158f0a.nq.gz",
+        "blob/2cf7eff25750bfa3f5cbf07ce25cda5a26107f33.nq.gz",
+        "blob/973d7c7aa51f901ecd41ae116b13b22ad0b668d3.nq.gz",
+        "blob/f5639eac24f1ab5e6383d011148e85801e7302ce.nq.gz",
+        "blob/42b20a8ba632c4831074403c5e4d33fa1ae8c395.nq.gz",
+        "blob/a9c0c4867b2f71c47cc8e80440cb0693bb89863e.nq.gz",
+        "blob/507da487c9bfd5a3ffec4253114294f1461b1fde.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
