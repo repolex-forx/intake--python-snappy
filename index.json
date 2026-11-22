@@ -3,6 +3,11 @@
   "repo": "python-snappy",
   "versions": [
     {
+      "commit": "42b452129b0be6fdc23a444a51e65f21adf66984",
+      "tag": "0.7.2",
+      "parsed_at": "2026-11-22T00:13:29.916260+00:00"
+    },
+    {
       "commit": "ff09d429fca0e34a6450c8c789f26e1c3386405a",
       "tag": "",
       "parsed_at": "2026-11-06T02:13:20.914334+00:00"
